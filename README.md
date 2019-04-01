@@ -10,5 +10,6 @@ Docknings station: https://www.dustin.se/product/5010756377/2013-ultraslim 1499 
 
 SERVRAR
 
-Rack server: https://www.dustin.se/product/5011095822/proliant-dl20-gen9-entry---2-tb-hdd-extra-ram
+windowsserver: https://www.dustin.se/product/5011121972/proliant-dl385-gen10---12tb-extra-ram
+webbserver: https://www.dustin.se/product/5011121972/proliant-dl385-gen10---12tb-extra-ram med en 2tb hårdiskt: https://www.dustin.se/product/5011059749/midline och en 8tb hårdisk: https://www.dustin.se/product/5010909854/harddisk
 3d skrivare: https://www.dustin.se/product/5010782856/replicator-z18-3d-printer
