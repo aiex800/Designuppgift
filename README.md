@@ -20,9 +20,15 @@ webbserver: https://www.dustin.se/product/5011121972/proliant-dl385-gen10---12tb
 
 3d skrivare: https://www.dustin.se/product/5010782856/replicator-z18-3d-printer 66 400 kr
 
-Projektor: https://www.dustin.se/product/5010995992/mh750-dlp-projektor  9 000 kr
+Projektor: https://www.dustin.se/product/5010995992/mh750-dlp-projektor  9000 kr
 duk: https://www.dustin.se/product/5010092138/projektorduk-motor-200x112-169-90 2751
 
 Laserskrivare: https://www.industritorget.se/objekt/RS+M900/50811/ 75 000 kr
 
 a1 skrivare: https://www.dustin.se/product/5010893380/designjet-t1530-914cm-36 40 000 kr
+
+Router: https://www.dustin.se/product/5010887100/isr-4331 25 043 kr
+
+accesspunkt: https://www.dustin.se/product/5010946786/wap150 1349kr
+
+switchar https://www.dustin.se/product/5011107262/small-business-sg350x-48mp 16 495
